@@ -1,2 +1,4 @@
-je teste git bash 
+je teste git bash
+ajout du système de loading
+x 
 
