@@ -3,4 +3,5 @@ ajout du système de loading
 x 
 Amélioration de l'interface utilisateur 
 version fusionnée des deux branches 
+test de git fetch
 
