@@ -3,4 +3,4 @@ ajout du système de loading
 x 
 Amélioration de l'interface utilisateur 
 version fusionnée des deux branches 
-
+modif fait par un autre dev
